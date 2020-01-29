@@ -8,6 +8,6 @@ public class Demo
 @Test
 public void testA()
 {
-	Reporter.log("Maven project", true);
+	Reporter.log("Maven project is running", true);
 }
 }
